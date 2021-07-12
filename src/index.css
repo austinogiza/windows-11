@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.bg-windows{
+
+    background: rgba(34, 49, 103, 0.63);
+    backdrop-filter: blur(51.3803px);
+    /* border: 0.9px solid; */
+    /* border-image-source: linear-gradient(284.74deg, rgba(58, 192, 253, 0.16) -4.08%, rgba(255, 255, 255, 0) 44.93%); */
+
+
+}
